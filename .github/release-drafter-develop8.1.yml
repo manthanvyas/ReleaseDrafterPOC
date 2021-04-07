@@ -1,5 +1,5 @@
-name-template: 'Draft for main'
-tag-template: 'Draft for main'
+name-template: 'Draft for develop8.1'
+tag-template: 'Draft for develop8.1'
 filter-by-commitish: true
 commitish: develop8.1
 version-template: 'Draft for main'
