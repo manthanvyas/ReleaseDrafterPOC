@@ -1,0 +1,15 @@
+name-template: 'Draft for main'
+tag-template: 'Draft for main'
+filter-by-commitish: true
+commitish: develop8.1
+version-template: 'Draft for main'
+categories:
+  - title: '🚀 Features'
+    labels:
+      - 'feature'
+  - title: '🐛 Bug Fixes'
+    labels:
+      - 'bug'
+template: |
+  ## What’s Changed
+  $CHANGES
